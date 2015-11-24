@@ -1,0 +1,4 @@
+What happens when you initialze a repositor? Why do you need to do that?
+En dold mapp skapas som kommer innehålla de föränringar som görs. 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Det gör att det är möjligt att tänka igenom hur repository skall byggas
