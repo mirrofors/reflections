@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+By narrowig down the amount of rows to check.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It´s easier too correct programming errors. 
+What happens when you initialze a repositor? Why do you need to do that?
+En dold mapp skapas som kommer innehålla de föränringar som görs. 
